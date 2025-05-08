@@ -55,5 +55,5 @@ Run the FastAPI server
 
 ## ERD
 
-![Entity-Relationship Diagram (ERD)](/docs/ERD.png)
+![Entity-Relationship Diagram (ERD)](docs/ERD.png)
 [schema.sql](schema.sql)
